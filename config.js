@@ -10,7 +10,7 @@ import { es as esDefault, en as enDefault } from "./lib/multi-language/_default.
 import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 //Aqui se agrega los numeros que seran owners
 global.owner = [
-["595976126756", '𝙊𝙬𝙣𝙚𝙧 👑', true], //𝙏𝙝𝙚-𝙈𝙞𝙠𝙪𝘽𝙤𝙩-𝙈𝘿𝙑5 👑
+["254752828605", '𝙊𝙬𝙣𝙚𝙧 👑', true], //𝙏𝙝𝙚-𝙈𝙞𝙠𝙪𝘽𝙤𝙩-𝙈𝘿𝙑5 👑
 ["595986224522"],
 ["595987138033"],
 ["595982216131"],
@@ -27,7 +27,7 @@ global.obtenerQrWeb = 0; //Solo valores: 1 o 0
 global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
-global.botNumberCode = "" //example: "+595976126756"
+global.botNumberCode = "254752828605" //example: "+595976126756"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // ❰❰ Multi Idioma Dinámico : Dynamic Multi Language (MID-GB) ❱❱
 // [ES] > Agregué uno de los idiomas disponibles para el Bot en "mid".
@@ -362,7 +362,7 @@ let emotttt = {
       exp: '⚡', limit: '💎', diamond: '💎+', joincount: '🪙',
       emerald: '💚', berlian: '♦️', kyubi: '🌀', gold: '👑',
       money: '🐱', tiketcoin: '🎫', stamina: '✨',
-            
+         
       potion: '🥤', aqua: '💧', trash: '🗑', wood: '🪵',
       rock: '🪨', batu: '🥌', string: '🕸️', iron: '⛓️',
       coal: '⚱️', botol: '🍶', kaleng: '🥫', kardus: '🪧',
